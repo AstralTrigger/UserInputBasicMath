@@ -19,3 +19,6 @@ This package takes user input and performs basic arithmetic operations
     documentation.
 
 To install and test this package, use devtools::install_github('AstralTrigger/UserInputBasicMath')
+
+For a detailed look and example of how the function works, consider taking a look at
+my blog post which can be found here: https://kevinvasquezz4.blogspot.com/2024/04/userinputbasicmath-my-first-attempt-at.html
