@@ -17,3 +17,5 @@ This package takes user input and performs basic arithmetic operations
     assigned vectors instead of user input. All rules still apply when using this function.
     The details and application of UserInputToMath and VectorInputToMath are in the 
     documentation.
+
+To install and test this package, use devtools::install_github('AstralTrigger/UserInputBasicMath')
